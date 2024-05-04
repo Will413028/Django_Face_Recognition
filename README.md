@@ -1,1 +1,1 @@
-# Django_Face_Recognition
+https://www.udemy.com/course/complete-face-recognition-app-machine-learning-django-heroku/
